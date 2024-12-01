@@ -1,4 +1,4 @@
-name: WONnnnn
+name: Victim-merge-queue-workflow
 
 on:
   merge_group:
